@@ -1,0 +1,7 @@
+/home/aramhamidi/Aram/ATM/build/CMakeFiles/edit_cache.dir
+/home/aramhamidi/Aram/ATM/build/CMakeFiles/rebuild_cache.dir
+/home/aramhamidi/Aram/ATM/build/CMakeFiles/list_install_components.dir
+/home/aramhamidi/Aram/ATM/build/CMakeFiles/install.dir
+/home/aramhamidi/Aram/ATM/build/CMakeFiles/install/local.dir
+/home/aramhamidi/Aram/ATM/build/CMakeFiles/install/strip.dir
+/home/aramhamidi/Aram/ATM/build/CMakeFiles/atmEXE.dir
